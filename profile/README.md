@@ -20,3 +20,5 @@ This is a club for `Doane University - Crete Campus` students to explore their i
 No public repositories yet! Come back later!
 
 Thank you for checking us out and enjoy the rest of your day!
+
+[<img src="https://github.com/DoaneGameDevelopment/.github/blob/3c814f84dbd19d0a3777c22e3a09b5095bbc7260/assets/instagram-logo.png?raw=true" width = 50 alt = "Instagram Page">](https://instagram.com/doane_game_development)
