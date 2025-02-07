@@ -15,10 +15,11 @@ Note: This will only be displayed while editing, as it is a comment!
 -->
 ## Welcome to the Doane Game Development Profile!
 
-This is a club for `Doane University - Crete Campus` students to explore their interests in programming and art creation!
-
-No public repositories yet! Come back later!
+This is a club for **Doane University - Crete Campus** students to explore their interests in programming and art creation!
 
 Thank you for checking us out and enjoy the rest of your day!
+
+
+*There are no public repositories and likely won't be any soon.*
 
 [<img src="https://github.com/DoaneGameDevelopment/.github/blob/3c814f84dbd19d0a3777c22e3a09b5095bbc7260/assets/instagram-logo.png?raw=true" width = 50 alt = "Instagram Page">](https://instagram.com/doane_game_development)
